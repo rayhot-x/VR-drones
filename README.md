@@ -1,8 +1,10 @@
 # VR-drones
 To view this project, you must download it from my cloud storage.
 https://drive.google.com/file/d/1Mxh_-7aCbvXb9tJ6TndWI_dgUxDmSseP/view?usp=sharing
+
 To open the project, you must download the game engine.
 Godot 4.3 dev.6: https://godotengine.org/download/archive/4.3-dev6/
+
 To launch a project in VR, use Steam VR
 # Starting app
 The application starts from the main menu
